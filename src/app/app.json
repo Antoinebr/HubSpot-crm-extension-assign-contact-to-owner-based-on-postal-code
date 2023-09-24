@@ -1,0 +1,22 @@
+{
+  "name": "Assign contact to owner based on postal code",
+  "description": "Look in a  spreadsheet",
+  "uid": "assign_contact_to_owner_based_on_postal_code",
+  "scopes": [
+    "crm.objects.contacts.read",
+    "crm.objects.contacts.write",
+    "crm.objects.deals.read",
+    "crm.objects.deals.write",
+    "crm.objects.owners.read"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/assign_contact_to_owner_based_on_postal_code.json"
+        }
+      ]
+    }
+  }
+}

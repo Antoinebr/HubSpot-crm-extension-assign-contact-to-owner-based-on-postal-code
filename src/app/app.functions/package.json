@@ -1,0 +1,11 @@
+{
+  "name": "hubspot-example-function",
+  "version": "0.1.0",
+  "author": "HubSpot",
+  "license": "MIT",
+  "dependencies": {
+    "@hubspot/api-client": "^9.1.1",
+    "google-auth-library": "^8.9.0",
+    "google-spreadsheet": "^4.1.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Assign contact to owner based on postal code",
+    "uid": "assign_contact_to_owner_based_on_postal_code",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "assignContact.jsx"
+    },
+    "objectTypes": [
+      {
+        "name": "contacts"
+      }
+    ]
+  }
+}
