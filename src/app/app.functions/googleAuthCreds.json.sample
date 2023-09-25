@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "accountname-de32",
+    "private_key_id": "qsdqsdqsdqsdqsdqsdqsdqsdqsdqsdq",
+    "private_key": "-----BEGIN PRIVATE KEY-----\ndssqssqqsqsqsqsdssqdsdqsdqsqdsqdsqsdqdsqdsqs\nzsdsddsdsdsdsds5fdfd=\n-----END PRIVATE KEY-----\n",
+    "client_email": "user@account-name-def32.iam.gserviceaccount.com",
+    "client_id": "11222211211112112",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qsdqsdqsqsqdsqsdqsd1.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  

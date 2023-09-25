@@ -1,15 +1,10 @@
 const axios = require('axios');
 const GoogleSpreadsheet = require('google-spreadsheet');
 
-const {
-    JWT
-} = require('google-auth-library');
+const {JWT} = require('google-auth-library');
 
+// require the Google Service account with The Google spreadsheet enabled
 const creds = require('./googleAuthCreds.json'); // the file saved above
-
-
-
-
 
 exports.main = async (context = {}, sendResponse) => {
 
