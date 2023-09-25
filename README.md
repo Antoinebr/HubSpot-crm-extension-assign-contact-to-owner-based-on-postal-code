@@ -1,5 +1,9 @@
 # Assign contact to owner based on Postal code 
 
+This crm extension queries a Google spreasheet which maps postal codes and CRM users.
+
+![schema](./schema-logic.png)
+
 ## Setup 
 
 ```
